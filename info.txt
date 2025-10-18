@@ -1,0 +1,5 @@
+https://cjnmbfpharberxwisrqa.supabase.co
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNqbm1iZnBoYXJiZXJ4d2lzcnFhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjA3ODI1MjMsImV4cCI6MjA3NjM1ODUyM30.p2LuoGh4sDuqpCXgypNl99lU8iHppHHQjKtNWcEY2VA
+https://supabase.com/dashboard/project/cjnmbfpharberxwisrqa/editor/17472
+https://vercel.com/hieus-projects-78b19321/10-a5-0
+https://10-a5-0.vercel.app/
